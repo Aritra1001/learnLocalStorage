@@ -1,0 +1,13 @@
+Local Storage is a browser storage where we store data in the form of key-value pairs using an object.
+
+localStorage.setItem(key, value) - To store and update data.
+
+localStorage.getItem(key) - Gives us the value of that key.
+ 
+localStorage.key(index) - Gives us the key on that index.
+
+localStorage.length - Gives us the length of the data.
+
+localStorage.removeItem(key) - Removes the key and its value.
+
+localStorage.clear() - Deletes all the data.
